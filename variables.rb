@@ -3,6 +3,14 @@ sport = "ski"
 sport2 = "mountain bike"
 sport3 = "climb"
 
+email = "bill@gmail.com"
+sport = "climb"
+sport2 = "ski"
+sport3 = "mountain bike"
+
+puts email
+puts sport2
+
 age = 28
 weight = 155
 num_cars = 1
